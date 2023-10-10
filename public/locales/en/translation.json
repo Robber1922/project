@@ -3,5 +3,7 @@
   "Перевод": "Translate",
   "О сайте": "About",
   "Главная страница": "Main page",
-  "Язык": "English"
+  "Язык": "English",
+  "Произошла непредвиденная ошибка": "An error has occured",
+  "throw error": "throw error"
 }
